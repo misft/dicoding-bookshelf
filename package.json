@@ -1,0 +1,25 @@
+{
+  "name": "dicoding-bookshelf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misft/dicoding-bookshelf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misft/dicoding-bookshelf/issues"
+  },
+  "homepage": "https://github.com/misft/dicoding-bookshelf#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
